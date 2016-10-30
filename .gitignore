@@ -1,0 +1,16 @@
+#Webstorm Index Infromation
+.idea/
+
+#npm module files
+node_modules/
+
+#release file
+dist/
+
+#npm debug file
+npm-debug.log
+
+
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
