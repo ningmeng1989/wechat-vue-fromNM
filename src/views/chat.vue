@@ -39,7 +39,7 @@
 <style scoped>
 </style>
 
-<script>
+<script type="text/ecmascript-6">
 import {wechat_list} from 'getters';
 import {
     get_menu_wechat_list,

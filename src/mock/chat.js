@@ -1,4 +1,5 @@
-var list = [{
+var list = [
+{
     "base": {
         "id": 1,
         "name": "杨涛",
@@ -42,7 +43,8 @@ var list = [{
         "lookHisPhotos": true,
         "blacklist": false, //"黑名单"
     }
-}, {
+},
+{
     "base": {
         "id": 2,
         "name": "微信群01",
@@ -89,7 +91,8 @@ var list = [{
         "contactsSave": false,
         "showGroupNickname": true, //显示群聊天昵称
     }
-},{
+},
+{
     "base": {
         "id": 1,
         "name": "稀土圈",
@@ -154,7 +157,8 @@ var list = [{
         "lookHisPhotos": true,
         "blacklist": false, //"黑名单"
     }
-}, {
+},
+{
     "base": {
         "id": 1,
         "name": "饿了么",

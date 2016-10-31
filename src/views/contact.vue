@@ -60,12 +60,14 @@
             </template>
         </div>
     </div>
+
+    <router-view transition="cover" ></router-view>
 </template>
 
 <style scoped>
 </style>
 
-<script>
+<script type="text/ecmascript-6">
 import{contact_friends} from 'getters';
 import{
     set_menu_active,
